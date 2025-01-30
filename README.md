@@ -1,0 +1,3 @@
+# Julia Function Bug: Unexpected Negative Input Handling
+
+This repository demonstrates a bug in a simple Julia function that produces unexpected results when given negative input. The function aims to square the input, returning a positive result for positive inputs and zero for zero input. However, its handling of negative inputs leads to an incorrect output.  The solution provides the corrected function to address this issue.
